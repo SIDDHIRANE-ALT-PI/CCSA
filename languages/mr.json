@@ -1,3 +1,40 @@
 {
-  "greeting": "नमस्कार, जगत!"
-}
+    "FOOTER_TEXT": "Alt-pi द्वारे प्रदान केलेले तांत्रिक निरसन",
+    "DEPOSITORS": "ठेवीदार",
+    "DEPOSITORS_AMOUNT": "ठेवीदारांची रक्कम",
+    "PAYMENT_QR": "भरणा QR कोड",
+    "SEARCHBAR_PLACEHOLDER": "शोध",
+    "AMOUNTINPUT_PLACEHOLDER": "रक्कम",
+    "GENRATE_QR": "QR जनरेट करा",
+    "BACK": "मागे",
+    "INR_Amount": "INR रक्कम",
+    "MENU": "मेनू",
+    "FROM": "पासून",
+    "TO": "च्यापर्यत",
+    "SIDEMENU": [
+        {
+            "MENU_OPTION": " नवीन संकलन",
+            "ROUTE": "new-bill"
+        },
+        {
+            "MENU_OPTION": "व्यवहार-अहवाल",
+            "ROUTE": "transaction-report"
+        },
+        {
+            "MENU_OPTION": "गोपनीयता-धोरण",
+            "ROUTE": "privacy-policy"
+        },
+        {
+            "MENU_OPTION": "अटी आणि अटीचे नियम",
+            "ROUTE": "terms-condition"
+        },
+        {
+            "MENU_OPTION": "आमच्याशी संपर्क साधा",
+            "ROUTE": "contact-us"
+        },
+        {
+            "MENU_OPTION": "साइन आउट",
+            "ROUTE": "../login"
+        }
+    ]
+    }

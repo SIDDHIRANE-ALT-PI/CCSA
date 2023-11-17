@@ -1,0 +1,41 @@
+{
+    "FOOTER_TEXT": "Alt-pi द्वारा प्रदान किया गया तकनीकी समाधान",
+    "DEPOSITORS": "जमाकर्ता",
+    "DEPOSITORS_AMOUNT": "जमाकर्ता राशि",
+    "PAYMENT_QR": "भुगतान क्यूआर कोड",
+    "SEARCHBAR_PLACEHOLDER": "खोजें",
+    "AMOUNTINPUT_PLACEHOLDER": "राशि",
+    "GENRATE_QR": "क्यूआर जनरेट करें ",
+    "BACK": "वापस",
+    "INR_Amount": "INR राशि",
+    "MENU": "मेनू",
+    "FROM": "से",
+    "TO": "तक",
+    "SIDEMENU": [
+      {
+        "MENU_OPTION": "नई संग्रह",
+        "ROUTE": "new-bill"
+      },
+      {
+        "MENU_OPTION": "लेन-देन रिपोर्ट",
+        "ROUTE": "transaction-report"
+      },
+      {
+        "MENU_OPTION": "गोपनीयता और नीति",
+        "ROUTE": "privacy-policy"
+      },
+      {
+        "MENU_OPTION": "नियम और शर्तें",
+        "ROUTE": "terms-condition"
+      },
+      {
+        "MENU_OPTION": "संपर्क करें",
+        "ROUTE": "contact-us"
+      },
+      {
+        "MENU_OPTION": "साइन-आउट",
+        "ROUTE": "../login"
+      }
+    ]
+  }
+  

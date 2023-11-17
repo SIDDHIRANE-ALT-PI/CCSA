@@ -1,3 +1,40 @@
 {
-    "greeting": "Hello, World!"
-  }
+  "FOOTER_TEXT":"Technical solution provided by Alt-pi",
+  "DEPOSITORS":"Depositors",
+  "DEPOSITORS_AMOUNT":"Depositor Amount",
+  "PAYMENT_QR":"Payment QR Code",
+  "SEARCHBAR_PLACEHOLDER": "search",
+  "AMOUNTINPUT_PLACEHOLDER": "amount",
+  "GENRATE_QR":"GENRATE QR",
+  "BACK":"BACK",
+  "INR_Amount":"INR Amount",
+  "MENU":"MENU",
+  "FROM":"From",
+  "TO":"To",
+  "SIDEMENU":[
+    {
+      "MENU_OPTION":"New Collection",
+      "ROUTE":"new-bill"
+    },
+    {
+      "MENU_OPTION":"Transactions Report",
+      "ROUTE":"transaction-report"
+    },
+    {
+      "MENU_OPTION":"Privacy & Policy",
+      "ROUTE":"privacy-policy"
+    },
+    {
+      "MENU_OPTION":"Terms & Conditions",
+      "ROUTE":"terms-condition"
+    },
+    {
+      "MENU_OPTION":"Contact Us",
+      "ROUTE":"contact-us"
+    },
+    {
+      "MENU_OPTION":"Sign-out",
+      "ROUTE":"../login"
+    }
+  ]
+}

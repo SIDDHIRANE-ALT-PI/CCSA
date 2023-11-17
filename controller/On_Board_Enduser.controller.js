@@ -2,6 +2,8 @@
 const registration_IN = require('../model/registration_IN.model')
 const { Op, where, Sequelize } = require("sequelize");
 const { json } = require("body-parser");
+const partycontact1=require('../model/Party_Contact1.model');
+const party1=require('../model/party1.model')
 
 
 exports.onBoardMerchant = async (req, res) => {
